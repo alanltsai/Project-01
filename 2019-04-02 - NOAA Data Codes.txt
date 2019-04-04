@@ -1,0 +1,6 @@
+[TAVG] = Average Temperature
+[TMAX] = Maximum Temperature
+[TMIN] = Minimum Temperature
+
+
+[PRCP] = Precipitation
